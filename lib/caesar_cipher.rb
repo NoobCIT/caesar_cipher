@@ -23,7 +23,5 @@ def caesar_cipher(string, shift)
       secret << letter
     end
   end
-  puts secret.join
+  return secret.join
 end
-
-caesar_cipher("What a string!", 5)
