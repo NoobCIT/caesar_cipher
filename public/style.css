@@ -1,0 +1,26 @@
+img {
+  width: 15%;
+}
+
+#image {
+  display: block;
+  margin: 0 auto;
+}
+
+#title {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+body {
+  font-family: 'Great Vibes', cursive;
+  text-align: center;
+}
+
+p {
+  font-size: 30px;
+}
+
+form {
+  font-size: 24px;
+}

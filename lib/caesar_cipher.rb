@@ -1,6 +1,4 @@
 
-
-
 def caesar_cipher(string, shift)
 
   # Create a-z and z-a array for capital and lowercase letters
