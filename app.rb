@@ -20,5 +20,3 @@ def encrypted_message(string, shift)
   message = caesar_cipher(string, shift)
   "Here's the encryption: #{message}"
 end
-
-#lujanfernaud/sinatra-caesar-cipher
